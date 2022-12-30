@@ -19,7 +19,7 @@ body
 {
     position: relative;
     width: 380px;
-    height: 420px;
+    height: 450px;
     background: #232423;
     border-radius: 8px;
     overflow: hidden;
@@ -131,7 +131,7 @@ body
 }
 
 div.ButtonLogin{
-    margin-top: 35px;  
+    margin-top: 25px;  
     text-align: center;
 }
 
@@ -142,4 +142,13 @@ div.ButtonLogin input{
     color: #45f3ff;
     border-color:#45f3ff;
     border-radius: 2%;
+}
+
+div.linkref{
+    margin-top:13px;
+}
+
+div.linkref a{
+    color: #45f3ff;
+    font-size:12px;
 }
